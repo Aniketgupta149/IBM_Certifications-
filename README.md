@@ -1,0 +1,1 @@
+Repository containing my IBM certifications in Data Analysis, Python for Data Science, and Machine Learning with Python, showcasing skills in Python, data analysis, visualization, and machine learning concepts.
